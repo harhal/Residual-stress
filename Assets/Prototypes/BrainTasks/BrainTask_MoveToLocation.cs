@@ -19,7 +19,5 @@ public class BrainTask_MoveToLocation : BrainTask
         {
             yield return null;
         }
-
-        yield return null;
     }
 }

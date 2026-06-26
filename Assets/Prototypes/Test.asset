@@ -12,4 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a8a28a4279274af45a61dc0c4190ebfa, type: 3}
   m_Name: Test
   m_EditorClassIdentifier: Assembly-CSharp::ActorsLayoutData
-  entries: []
+  entries:
+  - id: 
+    localPosition: {x: 0, y: 0, z: 0}
+    localEuler: {x: 0, y: 0, z: 0}
